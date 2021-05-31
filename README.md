@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sk3vr
+- 👋 Hi, I’m @Sk3vr Уваров Дмитрий
 - 👀 I’m interested in frontend
 - 🌱 I’m currently learning Учебно-научного центра при МГТУ им Н.Э. Баумана
 - 💞️ I’m looking to collaborate on ...
